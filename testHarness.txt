@@ -1,0 +1,15 @@
+CS2010 Lab 4 HW
+=============================
+
+## Code
+
+Code is in the static method provided in TestHeapType.java.
+
+
+## Installation
+
+To run, execute
+    
+    mvn test
+    
+in the terminal.
